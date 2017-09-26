@@ -15,6 +15,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     var starfield: SKEmitterNode!
     var pokeball: SKSpriteNode!
     var level: SKLabelNode!
+//    var isIdleTimerDisabled: true
     
     let motionManager = CMMotionManager()
     var xAcceleration: CGFloat = 0
@@ -29,7 +30,7 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         
         starfield.zPosition = -1
         
-        pokeball = SKSpriteNode(imageNamed: "pokeball")
+        pokeball = SKSpriteNode(imageNamed: "shuttle")
         pokeball.position = CGPoint(x: self.frame.size.width / 2, y: pokeball.size.height/2 + 20)
         self.addChild(pokeball)
         
@@ -72,4 +73,5 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
     override func update(_ currentTime: TimeInterval) {
         // Called before each frame is rendered
     }
+  
 }

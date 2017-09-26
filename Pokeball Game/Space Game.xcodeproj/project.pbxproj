@@ -224,7 +224,7 @@
 				TargetAttributes = {
 					A9AF79531F799CB70066634E = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = PQDL4FQ278;
+						DevelopmentTeam = QYL64BN5XW;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
@@ -450,10 +450,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = PQDL4FQ278;
+				DEVELOPMENT_TEAM = QYL64BN5XW;
 				INFOPLIST_FILE = "Space Game/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "dss.Space-Game";
+				PRODUCT_BUNDLE_IDENTIFIER = "sam.ell-web.de";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.0;
@@ -464,10 +464,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = PQDL4FQ278;
+				DEVELOPMENT_TEAM = QYL64BN5XW;
 				INFOPLIST_FILE = "Space Game/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "dss.Space-Game";
+				PRODUCT_BUNDLE_IDENTIFIER = "sam.ell-web.de";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.0;
